@@ -22,7 +22,7 @@
 Estudante de Sistemas de Informação na **UFMS** e fundador técnico da **Cyber Castle**.
 Aprendo construindo sistemas de verdade — do schema do banco à interface — para negócios que precisam deles ontem.
 
-Hoje meu foco é backend em **TypeScript** e aplicações mobile com **React Native**, com atenção especial a modelagem de dados e a produtos que precisam rodar sozinhos depois de entregues.
+Hoje meu foco é backend em **TypeScript** e aplicações mobile com **React Native**, com atenção especial a modelagem de dados e a gestão de projetos e produtos que precisam rodar sozinhos depois de entregues.
 
 <br>
 
@@ -62,7 +62,7 @@ Hoje meu foco é backend em **TypeScript** e aplicações mobile com **React Nat
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Cyber Castle</h3>
+      <h3><a href="cybercastle.dev">Cyber Castle</a></h3>
       <p><sub><code>cybercastle.dev</code></sub></p>
       <p>Estúdio de software focado em automação e sistemas sob medida para pequenos e médios negócios do Centro-Oeste.</p>
       <p>
@@ -76,9 +76,20 @@ Hoje meu foco é backend em **TypeScript** e aplicações mobile com **React Nat
 
 ## Stack
 
-**Backend** — Node.js · TypeScript · Fastify · Prisma · PostgreSQL
-**Frontend** — React · React Native · Expo · TailwindCSS
-**Infra** — Docker · Linux · GitHub Actions
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,fastify,prisma,postgres&theme=dark" alt="Backend">
+  <br><sub><b>Backend</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,expo&theme=dark" alt="Frontend">
+  <br><sub><b>Frontend</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions&theme=dark" alt="Infra">
+  <br><sub><b>Infra</b></sub>
+</p>
 
 <br>
 
