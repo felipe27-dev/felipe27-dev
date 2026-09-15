@@ -62,7 +62,7 @@ Hoje meu foco é backend em **TypeScript** e aplicações mobile com **React Nat
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="cybercastle.dev">Cyber Castle</a></h3>
+      <h3><a href="https://cybercastle.dev">Cyber Castle</a></h3>
       <p><sub><code>cybercastle.dev</code></sub></p>
       <p>Estúdio de software focado em automação e sistemas sob medida para pequenos e médios negócios do Centro-Oeste.</p>
       <p>
@@ -73,24 +73,30 @@ Hoje meu foco é backend em **TypeScript** e aplicações mobile com **React Nat
 </table>
 
 <br>
-
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,fastify,prisma,postgres&theme=dark" alt="Backend">
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="40" alt="Node.js">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastify/FFFFFF" height="40" alt="Fastify">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="Prisma">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL">
   <br><sub><b>Backend</b></sub>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,expo&theme=dark" alt="Frontend">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/expo/FFFFFF" height="40" alt="Expo">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS">
   <br><sub><b>Frontend</b></sub>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions&theme=dark" alt="Infra">
-  <br><sub><b>Infra</b></sub>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="GitHub Actions">
+  <br><sub><b>Frontend</b></sub>
 </p>
-
 <br>
 
 ## GitHub
