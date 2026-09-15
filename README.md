@@ -1,39 +1,100 @@
 <h1 align="center">Felipe de Souza Rosa</h1>
-<p align="center"><b>Cyber Castle</b> — Desenvolvedor full-stack construindo produtos reais para pequenos negócios</p>
 
 <p align="center">
-  <a href="https://cybercastle.dev"><img src="https://img.shields.io/badge/site-cybercastle.dev-111111?style=flat-square" alt="Site"></a>
-  <a href="https://www.linkedin.com/in/felipe-de-souza-rosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:felipsouzarosa@gmail.com"><img src="https://img.shields.io/badge/Email-felipsouzarosa%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <b>Cyber Castle</b> · Desenvolvedor full-stack<br>
+  <sub>Construindo produtos reais para pequenos negócios · Campo Grande, MS</sub>
+</p>
+
+<p align="center">
+  <a href="https://cybercastle.dev">
+    <img src="https://img.shields.io/badge/cybercastle.dev-0A0A0A?style=for-the-badge&logo=hexo&logoColor=white" alt="Site">
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-de-souza-rosa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:felipsouzarosa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-C14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-### Sobre
+Estudante de Sistemas de Informação na **UFMS** e fundador técnico da **Cyber Castle**.
+Aprendo construindo sistemas de verdade — do schema do banco à interface — para negócios que precisam deles ontem.
 
-Estudante de Sistemas de Informação (UFMS) e fundador técnico da **Cyber Castle**, em Campo Grande/MS. Aprendo construindo sistemas de verdade — do banco de dados à interface — para negócios que precisam deles.
+Hoje meu foco é backend em **TypeScript** e aplicações mobile com **React Native**, com atenção especial a modelagem de dados e a produtos que precisam rodar sozinhos depois de entregues.
 
-### Construindo agora
+<br>
 
-- **Tenda Solar - Aluguel de Energia** — plataforma de assinatura/locação de energia solar (backend + app mobile)
-- **Werewolf** — Jogo inovador no estilo Cidade-Dorme com mecânicas e funcionalidades novas
-- **SSL-VICE** — Sistema para robôs de competição para a SSL
+## Projetos
 
-### Stack
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Tenda Solar</h3>
+      <p><sub><code>Código privado</code></sub></p>
+      <p>Plataforma de assinatura e locação de energia solar. Backend de gestão de contratos e app mobile para acompanhamento de consumo pelos clientes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=5FA04E">
+        <img src="https://img.shields.io/badge/-Fastify-1a1a1a?style=flat-square&logo=fastify&logoColor=white">
+        <img src="https://img.shields.io/badge/-React_Native-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=4169E1">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/cybercastle-gith/Varcolac">Vârcolac</a></h3>
+      <p><sub><code>Open source</code></sub></p>
+      <p>Jogo social no estilo Cidade Dorme, com mecânicas próprias de papéis e votação que fogem do formato tradicional.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=3178C6">
+        <img src="https://img.shields.io/badge/-React-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ararabots-UFMS/ssl-VICE">SSL-VICE</a></h3>
+      <p><sub><code>Ararabots · UFMS</code></sub></p>
+      <p>Sistema de controle e estratégia para robôs autônomos na RoboCup Small Size League. Visão computacional, comunicação e tomada de decisão em tempo real.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB">
+        <img src="https://img.shields.io/badge/-Robótica-1a1a1a?style=flat-square&logo=ros&logoColor=22314E">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Cyber Castle</h3>
+      <p><sub><code>cybercastle.dev</code></sub></p>
+      <p>Estúdio de software focado em automação e sistemas sob medida para pequenos e médios negócios do Centro-Oeste.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Ver_site-1a1a1a?style=flat-square&logo=googlechrome&logoColor=white">
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<br>
+
+## Stack
+
+**Backend** — Node.js · TypeScript · Fastify · Prisma · PostgreSQL
+**Frontend** — React · React Native · Expo · TailwindCSS
+**Infra** — Docker · Linux · GitHub Actions
+
+<br>
+
+## GitHub
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repositórios por linguagem">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Linguagens mais commitadas">
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Estatísticas">
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Horários produtivos">
 </p>
 
-### GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=felipe27-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe27-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="165">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipe27-dev/felipe27-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipe27-dev/felipe27-dev/output/github-contribution-grid-snake.svg">
+  <img alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/felipe27-dev/felipe27-dev/output/github-contribution-grid-snake.svg">
+</picture>
