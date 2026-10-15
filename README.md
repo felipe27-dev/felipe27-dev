@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://cybercastle.dev">
-    <img src="https://img.shields.io/badge/cybercastle.dev-0A0A0A?style=for-the-badge&logo=hexo&logoColor=white" alt="Site">
+    <img src="https://img.shields.io/badge/cybercastle.dev-0A0A0A?style=for-the-badge&logo=hexo&logoColor=white&color=green" alt="Site">
   </a>
   <a href="https://www.linkedin.com/in/felipe-de-souza-rosa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
