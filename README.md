@@ -15,6 +15,9 @@
   <a href="mailto:felipsouzarosa@gmail.com">
     <img src="https://img.shields.io/badge/Email-C14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://felipe-souza-rosa.web.app">
+    <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white&color=blue" alt="Website">
+  </a>
 </p>
 
 ---
